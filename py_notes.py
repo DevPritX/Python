@@ -40,6 +40,16 @@
 
 print("Hello World!")
 
+# To check Python version of the editor, you can find it by importing 'sys' module:
 import sys
 
 print(sys.version)
+
+# Python Command Line uses
+
+# When you wants to test sort amount of code in python sometimes it is quickest and easiest not to write the code in a file. This is made possible because Python can be run as a command line itself.
+
+# Type 'python' or 'py' in your cmd or terminal now you can test your python codes here.
+
+# After Done to exit from python terminal type: 'exit()'
+
