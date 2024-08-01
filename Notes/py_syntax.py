@@ -13,13 +13,13 @@ if 5 > 2:
 
 # Python will give you an error if you skip the indentation:
 
-# ex:
+# Ex:
 
 if 5 > 2:
 print("Five is greater than two")
 
 # The number of spaces up to you as a programmer, the most common use is four, but it has to be at least one.
-# Ex: 
+# Ex:
 if 5 > 2:
  print("Five is greater than two")
 if 2 < 5:

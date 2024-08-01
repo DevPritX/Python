@@ -7,13 +7,13 @@
 # Creating comment in Python
 
 # Comments Starts with a '#', and Python will ignore them:
-# ex:
+# Ex:
 
 # This is a comment
 print("This is not a comment")
 
 # Comments can be placed at the end of a line, and Python will ignore the rest of the line:
-# ex:
+# Ex:
 
 print("Hey, i am busy now") # This is a Comment
 
@@ -27,7 +27,7 @@ print("This will be printed")
 #   Python does not really have a syntax for multiline comments.
 
 # To add a multiline comment you could insert a # for each line:
-# ex:
+# Ex:
 
 # This is a Comment
 # This is a new Comment
@@ -35,7 +35,7 @@ print("This will be printed")
 
 # Also there is a another way to create multiline comments. You can use multiline string.
 # Since Python will ignore string literals that are not assigned to a variable, you can add a multiline string (triple quotes) in your code, and place your comment inside it.
-#ex:
+#Ex:
 
 """
     This is 1st line
@@ -55,7 +55,7 @@ print("Hello, world!")
 # As long as the string is not assigned to a variable, Python will read the code, but then ignore it, and you have made a multiline comment
 
 # Also You create single line comment using "", '' quotes
-# ex:
+# Ex:
 "Hii There How are You?"
 "I am Fine, Or you?"
 
